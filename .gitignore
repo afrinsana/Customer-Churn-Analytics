@@ -1,0 +1,7 @@
+cd path/to/extracted/Customer_Churn_Analytics
+git init
+git add .
+git commit -m "Initial commit - Churn Prediction Project"
+git branch -M main
+git remote add origin https://github.com/afrinsana/Customer-Churn-Analytics.git
+git push -u origin main
