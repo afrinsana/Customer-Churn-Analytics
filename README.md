@@ -1,10 +1,21 @@
-# Customer Churn Analytics
+<p align="center">
+  <img src="cover.png" alt="Customer Churn Analytics Cover" width="100%" />
+</p>
 
-*Predict. Prevent. Prosper.*
 
-Welcome to *Customer Churn Analytics* — a smart system that not only predicts if your customers are about to leave, but also tells you why (because guessing games are for kids, not businesses).
+# 📊 Customer Churn Analytics
+
+> **Predict, Prevent, and Power Up Business Retention.**
+
+Welcome to **Customer Churn Analytics**, your smart gateway to understanding why customers leave and how to stop them in real time!  
+This end-to-end industry-grade project uses real-world data, advanced Machine Learning, live API simulations, PostgreSQL integration, explainable AI (SHAP), and an elegant Streamlit web app. 🚀
+
+🔎 Whether you're analyzing customer loyalty or fine-tuning retention strategies, this project gives you the full data power you need.
 
 ---
+
+
+
 
 ## Project Highlights:
 
