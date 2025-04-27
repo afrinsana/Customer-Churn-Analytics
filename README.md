@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" alt="Customer Churn Analytics Cover" width="100%" />
+  <img src="cover.png.png" alt="Customer Churn Analytics Cover" width="100%" />
 </p>
 
 
